@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mikosodz.lote@gmail.com**
 
-- 📄 Know about my experiences [https://mikolajsodzawiczny.netlify.app/](https://mikolajsodzawiczny.netlify.app/)
+- 📄 Know about my experiences [https://mikolajsodzawiczny.netlify.app/about.html](https://mikolajsodzawiczny.netlify.app/about.html)
 
 - ⚡ Fun fact **I could play Board Games all day, everyday**
 
