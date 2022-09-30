@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ReallyBooky](https://github.com/mikolaszko/ReallyBooky)
 
-- 🌱 I’m currently learning **NextJS, Advance Redux**
+- 🌱 I’m currently learning **RUST BABYYYYYY**
 
 - 👨‍💻 All of my projects are available at [https://mikolajsodzawiczny.netlify.app/](https://mikolajsodzawiczny.netlify.app/)
 
