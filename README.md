@@ -31,5 +31,5 @@
   <a href="https://azure.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"  alt="azure" width="40" height="40"/></a> 
   <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"  alt="go" width="40" height="40"/></a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/></a> 
-  <a href="https://www.linux.org/?__cf_chl_tk=VKpEdRShsr9iU6DaGrVXgcPgvQcPZ21TQfKkLkNICos-1672164651-0-gaNycGzNCJE" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  alt="terraform" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  alt="git" width="40" height="40"/></a> 
 </p>
