@@ -25,4 +25,5 @@
 <p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="40" height="40"/></a> 
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"  alt="terraform" width="40" height="40"/></a> 
+<a href="https://www.linux.org/?__cf_chl_tk=VKpEdRShsr9iU6DaGrVXgcPgvQcPZ21TQfKkLkNICos-1672164651-0-gaNycGzNCJE" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"  alt="terraform" width="40" height="40"/></a> 
 </p>
