@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a rel="me" href="https://tech.lgbt/@mikolaszko" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="mikolaszko" height="30" width="40" /></a>
+ <a rel="me" href="https://fosstodon.org/@mikolaszko" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="mikolaszko" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mikolaj-sodzawiczny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mikolaj-sodzawiczny" height="30" width="40" /></a>
 </p>
 
