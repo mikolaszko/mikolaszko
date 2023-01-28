@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on making a switch from Frontend Engineer to DevOps
 
-- 🌱 I’m currently learning **Cloud Computing, IaC, K8s, GO**
+- 🌱 I’m currently learning **Scripting, Rust and Low-Level Programming**
 
 - 👨‍💻 My web-dev projects are available at [https://mikolajsodzawiczny.netlify.app/](https://mikolajsodzawiczny.netlify.app/)
 
-- 💬 Ask me about **Go, TS and DX**
+- 💬 Ask me about **Linux, TS and DX**
 
 - 📫 How to reach me **mikosodz.lote@gmail.com**
 
