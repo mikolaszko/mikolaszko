@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Mikołaj Sodzawiczny</h1>
 <h3 align="center">A passionate Software Engineer from Poland</h3>
+<h2 align="center">Commit graph can be a little dry since I moved to GitLab for WA work :)</h2>
 
-- 🔭 I’m currently working on making a switch from Frontend Engineer to DevOps
+- 🔭 I’m currently working a Senior Software Engineer at WorldAnvil
 
 - 🌱 I’m currently learning **Scripting, Rust and Low-Level Programming**
 
-- 👨‍💻 My web-dev projects are available at [https://mikolajsodzawiczny.netlify.app/](https://mikolajsodzawiczny.netlify.app/)
+- 👨‍💻 My realllllly old web-dev projects are available at [https://mikolajsodzawiczny.netlify.app/](https://mikolajsodzawiczny.netlify.app/)
 
 - 💬 Ask me about **Linux, TS and DX**
 
 - 📫 How to reach me **mikosodz.lote@gmail.com**
 
-- 📄 Know about my experiences [https://mikolajsodzawiczny.netlify.app/about.html](https://mikolajsodzawiczny.netlify.app/about.html)
+- 📄 Know about my experiences [https://sodzawiczny.com](https://sodzawiczny.com) but I am not going to update my CV on there. You can find my employment history on LinkedIn
 
 - ⚡ Fun fact **I could play Board Games all day, everyday**
 
