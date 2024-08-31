@@ -1,3 +1,6 @@
-A Literal Big Engineering Fish Theory 🐟🐟🐟🐟  
 Born based  
-I'm him  
+I'm him
+
+CV per request 📰 
+if you wanna talk send me an email:
+mikosodz.lote@gmail.com
