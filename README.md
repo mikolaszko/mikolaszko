@@ -1,5 +1,6 @@
-Born based  
-I'm him
+Born based    
+I'm him  
+Principal Software Engineer @ WorldAnvil (biggest ttrpg tooling platform on Earth) 🗺️
 
 CV per request 📰   
 if you wanna talk send me an email:
