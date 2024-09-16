@@ -6,4 +6,4 @@ CV per request 📰
 if you wanna talk send me an email:
 mikosodz.lote@gmail.com
 
-I do low-level engineering and as is written in the description - compilers are my main focus. 
+I do low-level engineering - compilers, performance optimization and cli tools are my favorite B)))
