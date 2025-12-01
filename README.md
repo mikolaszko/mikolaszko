@@ -1,4 +1,5 @@
 Principal Software Engineer @ [WorldAnvil](https://www.worldanvil.com/) (biggest ttrpg tooling platform on Earth) 🗺️  
+Rust Caster @ [Conjured](https://conjured.ink/) (e-commerce tooling)
 
 CV per request 📰  
 if you wanna talk send me an email: mikosodz.lote@gmail.com  
